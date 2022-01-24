@@ -1,5 +1,5 @@
 # Welcome to Swivro's GitHub Organization Page
-Swivro is an organization focused on transparency, cybersecurity, and online privacy. We create privacy-centric software as well as offer privacy resources.
+Swivro is an organization focused on transparency, cybersecurity, and online privacy. We offer a variety of privacy-centric software as well as digital privacy resources.
 
 ## Check out our latest products
 - <a href="https://swivro.net/decentrasearch.html">Decentrasearch</a>
