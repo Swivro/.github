@@ -3,6 +3,6 @@ We are Swivro, the privacy brand, creating and offering a variety of software ce
 
 ## Check out our latest products
 - <a href="https://ds.swivro.net">Decentrasearch</a>
-- <a href="https://swivro.net/unicrypt.html">Unicrypt</a>
+- <a href="https://uc.swivro.net">Unicrypt</a>
 - <a href="https://swivro.net/argon.html">Argon Browser</a>
 
