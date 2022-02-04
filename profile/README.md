@@ -4,6 +4,6 @@ We are Swivro, the privacy brand, creating and offering a variety of software ce
 ## Check out our latest products
 - <a href="https://swivro.net/search">Search</a>
 - <a href="https://swivro.net/secret-share">Secret Share</a>
-- <a href="https://uc.swivro.net">Unicrypt</a>
+- <a href="https://swivro.net/encipher">Encipher</a>
 - <a href="https://swivro.net/argon">Argon Browser</a>
 
